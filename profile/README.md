@@ -1,9 +1,14 @@
 # JDEA 💡
 
+### Introduction 👻
+
 ![JDEA](https://avatars.githubusercontent.com/u/115166402?s=200&v=4)
 
 - [`@Cattamoo`](https://github.com/cattamoo)
 - [`@jinbbeom`](https://github.com/jinbbeom)
+
+
+## Project 📝
 
 ### Like Project
 
